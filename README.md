@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 - Tools & Platforms: ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
@@ -47,12 +48,13 @@
 ### ⏳ Fun Section 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
+> “Talk is cheap. Show me the code.” – Linus Torvalds
+<br>
 
 ## 🌱 Currently Learning
-- Different concepts of Computer Engineering (CE) course
-- Front-End developement & Django framework
+- Different concepts of Computer Engineering (CE) courses
 - AI moduls & Machine Learning
-> “Talk is cheap. Show me the code.” – Linus Torvalds
+- Front-End developement
 
 <!--
 **MParsa-0684/MParsa-0684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
