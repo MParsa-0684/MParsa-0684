@@ -15,7 +15,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
-- Tools & Platforms: ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+- Tools & Platforms: ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
@@ -30,6 +30,7 @@
 
 ## 💻 Projects & Contributions
 - 🔹 [IPAI I](https://github.com/MParsa-0684/IPAM_I_App) & [IPAI II](https://github.com/MParsa-0684/IPAM_II_App) → A simple AI chatbot developed with ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) in  console version (IPAM I) & UI version with lots of other productivity apps & IPAM persona (IPAM II) developed in 2020-2022
+- 🔹 Web Developments → [C&C](https://candc.ir) & [Kavirpanel](https://kavirpanel.ir) websites have been developed in 2024 using ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) and ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat) plugins.
 - 🔹 [Rogue Game](https://github.com/MParsa-0684/fop2024-RogueGame-MParsa-0684) → Console rogue game integrated with ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat) & ![ncurses](https://img.shields.io/badge/-ncurses-1E8C3A?logo=terminal&logoColor=white&style=flat) (Final Project for [*Fundamentals of Programming*](https://github.com/FundamentalOfProgramming-SUT-2024))
 - 🔹 [Stardew Valley Game](https://github.com/MParsa-0684/Stardew_Valley_Game_Project) → Stardew Valley game developed with ![libGDX](https://img.shields.io/badge/-libGDX-E74C3C?logo=java&logoColor=white&style=flat) framework with multiplayer server/client architect (Final Project for [*Advanced Programming*](https://github.com/advanced-programming-sut-2025))
 <br> 
